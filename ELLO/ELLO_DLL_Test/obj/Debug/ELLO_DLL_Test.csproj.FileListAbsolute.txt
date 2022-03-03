@@ -1,0 +1,11 @@
+C:\Users\swako\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\ELLO\ELLO_DLL_Test\bin\Debug\ELLO_DLL_Test.exe.config
+C:\Users\swako\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\ELLO\ELLO_DLL_Test\bin\Debug\ELLO_DLL_Test.exe
+C:\Users\swako\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\ELLO\ELLO_DLL_Test\bin\Debug\ELLO_DLL_Test.pdb
+C:\Users\swako\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\ELLO\ELLO_DLL_Test\bin\Debug\Thorlabs.Elliptec.ELLO_DLL.dll
+C:\Users\swako\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\ELLO\ELLO_DLL_Test\bin\Debug\Thorlabs.Elliptec.ELLO_DLL.pdb
+C:\Users\swako\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\ELLO\ELLO_DLL_Test\obj\Debug\ELLO_DLL_Test.csproj.AssemblyReference.cache
+C:\Users\swako\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\ELLO\ELLO_DLL_Test\obj\Debug\ELLO_DLL_Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\swako\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\ELLO\ELLO_DLL_Test\obj\Debug\ELLO_DLL_Test.csproj.CoreCompileInputs.cache
+C:\Users\swako\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\ELLO\ELLO_DLL_Test\obj\Debug\ELLO_DLL_Test.csproj.CopyComplete
+C:\Users\swako\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\ELLO\ELLO_DLL_Test\obj\Debug\ELLO_DLL_Test.exe
+C:\Users\swako\OneDrive - THORLABS Inc\Documents\Visual Studio 2017\Projects\ELLO\ELLO_DLL_Test\obj\Debug\ELLO_DLL_Test.pdb
